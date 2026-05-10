@@ -1,16 +1,16 @@
-## Hi there 👋
+# Noah Wieser
 
-<!--
-**noahwieser/noahwieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal website and app legal pages.
 
-Here are some ideas to get you started:
+- Live site (after GitHub Pages is enabled): `https://noahwieser.github.io/`
+- Apps index: `https://noahwieser.github.io/apps/`
+- LiftLog privacy: `https://noahwieser.github.io/apps/liftlog/privacy.html`
+- LiftLog support: `https://noahwieser.github.io/apps/liftlog/support.html`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+
+- `index.html` - personal homepage
+- `assets/site.css` - shared site styles
+- `apps/index.html` - app legal page directory
+- `apps/liftlog/` - LiftLog privacy and support pages
+- `apps/_template/` - reusable templates for future apps
